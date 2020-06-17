@@ -1,7 +1,7 @@
 # IF23
 
 ## Introduction
-Les buts de ce projet sont la programmation du système GPS et le traitement et exploitation
+C'est un projet académique. Les buts de ce projet sont la programmation du système GPS et le traitement et exploitation
 des données enregistrées.  
 
 #### Dans la partie programmation du système GPS, on doit réaliser les fonctions :
