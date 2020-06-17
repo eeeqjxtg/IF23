@@ -10,10 +10,6 @@ des données enregistrées.
 • Enregistrer les données fournies par le GPS en temps réel  
 • Afficher la distance parcourue, le temps du parcours, la vitesse moyenne pour chaque
 parcours  
-• Enregistrer les parcours dans la carte micro SD et chaque parcours doit être identifiable
-et horodaté  
-• L'exportation du parcours choisi par l'utilisateur se fait en série vers un ordinateur via
-l'USB  
 
 
 #### Dans la partie traitement et exploitation des données enregistrées, on doit :
